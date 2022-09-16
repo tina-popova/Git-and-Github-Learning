@@ -1,3 +1,3 @@
-#Git and GitHub learning
+# Git and GitHub
 
-**Using Markdown**
+**How to use Git, GitHub, Markdown**
